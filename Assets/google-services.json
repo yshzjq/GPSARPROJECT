@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "636972502453",
+    "firebase_url": "https://argpsproject-default-rtdb.firebaseio.com",
+    "project_id": "argpsproject",
+    "storage_bucket": "argpsproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636972502453:android:83401d6b5f7ee86328ddfc",
+        "android_client_info": {
+          "package_name": "com.kopo.ARGPSProjcet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqs6vAPDpoq2JappOvxhtLwxcAIgT-ffI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
